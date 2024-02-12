@@ -1,6 +1,6 @@
 # Instalación
 
-Para instalar y configurar la integración con webhook, sigue estos pasos:
+Para instalar el circuito luego de importar sigue estos pasos:
 
 1. **Agregar integración con webhook**: Ve a `Integrations -> Browse in hub`.
 2. **Copiar webhook URL**: Obtén la URL del `webhook` desde esa pantalla.
